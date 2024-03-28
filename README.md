@@ -1,6 +1,7 @@
 # G4
 
-##Script for the video
+Script for the video
+
 Teacher - Your vocabulary test scores are always low. Are you not studying?
 Student - I'm memorizing it by wriing the words, but I lose interest and give up quickly.
 Teacher - There's a site called Classcard, why don't you use it for study?
