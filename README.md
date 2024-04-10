@@ -8,11 +8,11 @@ We brainstormed and made decisions while each of us came up with ideas for digit
 A draft script for the video
 
 + A student who lacks interest in memorizing English vocabulary
-+ A teacher introducing "class cards" to this student
++ A teacher introducing "class card" to this student
 
 📅 4/9 second meeting 
 
- We selected essential questions for the video introducing the 'classcard'.
+ We selected **essential questions** for the video introducing the 'classcard'.
  
 + What is its primary function?
 + How does this tool integrate with traditional English teaching methods?
