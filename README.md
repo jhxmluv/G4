@@ -21,20 +21,4 @@ A draft script for the video
 + What kind of interactive features does the tool offer to engage students?
 
  🔎
-  
-  Classcard is a site that will help you learn vocabulary in a more fun way.
-  It's an internet site that allows you to memorize English words quickly and enjoyably.
-  Firstly, you can organize your vocabulary learning through three steps: memorize, recall, and spell.
-  Then, you can use OX quizzes and word quiz battles to review the words you've learnt.
-  You can also find other word sets, so please try it!
-
-  ------------------------------------------------------------------------------
-
-  Student - Thank you, I'll study hard for enxt vocabulary test!
-  
-  (Student studying)
-  
-  (Student taking a vocabulary test at school)
-  
-  (Student celebrates getting a perfect score on a vocabulary test)
 
