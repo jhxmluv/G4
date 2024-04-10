@@ -21,7 +21,7 @@ A draft script for the video
 + What kind of interactive features does the tool offer to engage students?
 ______________________________________________________________________________________
 
-# 🔎 How to join 'Classcard'
+## 🔎 How to join 'Classcard'
 
 1.  You can download the 'Classcard' app on your phone or tap, or Search for https://www.classcard.net through Google or Naver sites.
 2.  By clicking on the free membership, you can create simple mail, ID, and password and log in right away.
