@@ -1,17 +1,26 @@
 # G4 - project 1
-purpose : 
+📅 3/28 fist meeting
 
-  Teacher - Your vocabulary test scores are always low. Are you not studying?
-  
-  Student - I'm memorizing the words by writing them, but I lose interest too quickly, and finally give up.
-  
-  Teacher - There's a site called Classcard. Why don't you use it for your study?
-  
-  Student - What is it? How can I use them?
+We brainstormed and made decisions while each of us came up with ideas for digital tools that would be helpful for students.
+### selected digital tool : Classcard
+Why? Simply put: Offering students a unique approach to English vocabulary compared to before
 
-  ------------------------------------------------------------------------------
+A draft script for the video
 
-  Teacher
++ A student who lacks interest in memorizing English vocabulary
++ A teacher introducing "class cards" to this student
+
+📅 4/9 second meeting
+
+ We selected essential questions for the video introducing the 'class card'.
+ 
++ What is its primary function?
++ How does this tool integrate with traditional English teaching methods?
++ What are the unique advantages of using this tool for English learning or teaching?
++ How user-friendly is the tool for both teachers and students?
++ What kind of interactive features does the tool offer to engage students?
+
+ 🔎
   
   Classcard is a site that will help you learn vocabulary in a more fun way.
   It's an internet site that allows you to memorize English words quickly and enjoyably.
