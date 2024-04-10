@@ -3,7 +3,7 @@
 
 We brainstormed and made decisions while each of us came up with ideas for digital tools that would be helpful for students.
 ### selected digital tool : Classcard
-Why? Simply put: Offering students a unique approach to English vocabulary compared to before
+❓ Simply put: Offering students a unique approach to English vocabulary compared to before
 
 A draft script for the video
 
