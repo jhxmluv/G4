@@ -1,6 +1,5 @@
-# G4
-
-Script for the video
+# G4 - project 1
+purpose : 
 
   Teacher - Your vocabulary test scores are always low. Are you not studying?
   
