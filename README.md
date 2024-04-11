@@ -55,4 +55,5 @@ Teacher : Everyone, seeing that I keep failing the English word test, I think I 
 2.  By clicking on the free membership, you can create simple mail, ID, and password and log in right away.
 
 *Scene 3*
+
 Teacher : In this class, I prepared a group activity using "classcard" for everyone.
