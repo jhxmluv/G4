@@ -21,14 +21,14 @@ We brainstormed and made decisions while each of us came up with ideas for digit
 + What kind of interactive features does the tool offer to engage students?
 __________________________________________________________________________________________________________________________________________
 
-## Its primary function
+## ⭐Its primary function⭐
 
 ### brief overview 
 'Classcard' is an online version of flashcard that is often used to memorize words in English class.
 
 ### Main features
 
-#### 👤 Individual Learning 
+### 👤 Individual Learning 
 
 + **memorization learning**
 
@@ -42,11 +42,11 @@ This the part that matches the Korean meaning in the view after seeing the Engli
 
 It is the step of looking at the meaning of the word and spelling the word. If you get it wrong or ask for a hint, the card comes out again. You can also match you spelling and pronounciation while listening to word pronounciation.
 
-#### 👥 Group Learning 
+### 👥 Group Learning 
 
 + **Quizz battle**
 
-
+Quiz battles are called multiple-choice real-time competition. After checking the teacher's battle code, the student enters the battle code and nickname. Students earn points by solving problems on their personal devices. Various questions such as listening to pronunciation, completing example sentences, and selecting meaning & English words are presented. The hot air balloon on the teacher's screen goes up as the scores are added up for each of the five questions. When the battle is over, you can check the wrong question once more by pressing 'Check the wrong answer' while waiting for the final ranking. In addition, students can know the ranking of the words that have many wrong answers and check the ranking and scores of all students.
 
 ### Its purpose in English learning or teaching 
 
@@ -82,6 +82,10 @@ Originally, when teachers taught students the spelling and pronunciation of word
 1. You can download the 'Classcard' app on your phone or tap, or Search for https://www.classcard.net through Google or Naver sites.
 2. By clicking on the free membership, you can create simple mail, ID, and password and log in right away.
 
+## unique advantages of using this tool for English learning
+
+
+
 ## How user-friendly is the tool for both teachers and students? 
 
 1. Depending on the publisher of the English textbook, the teacher can add word chapters to the class and set the tests that are presented after the students learn the word chapters. Also, since it is possible to import materials produced by others, even if I do not make them, I can use them in the class.
@@ -94,8 +98,7 @@ Originally, when teachers taught students the spelling and pronunciation of word
 
 ### 🎮 Quiz battle
 
-you can take an online quiz. Students can take the quiz and their scores increase in real-time by entering the code and name on the site where the teacher created the questions in advance. 
-Therefore, you can improve your English skills by simply enjoying quiz games.
+Students can take an online quiz. They can access the quiz battle site on devices such as tablets and laptops and enter the battle code shared by the teacher. They can take the quiz and their scores increase in real-time by entering the code and name on the site where the teacher created the questions in advance. Therefore, students can improve Their English skills by simply enjoying quiz games.
 
 + Example
 
