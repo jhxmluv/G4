@@ -32,15 +32,15 @@ ________________________________________________________________________________
 
 + **memorization learning**
 
-It is the first stage of learning all the English words you will memorize. After the English words are given, think about the meaning first, and then lower the cover down to make sure the meaning is correct. If it is correct, just put it down and turn it over if you don't know it. After that, only the cards that you don't know continue to appear. There are three methods of memorization: matching the English words given in Korean, and matching English words in the presented English example.
+It is the first stage of learning all the English words you will memorize. After the English words are given, think about the meaning first, and then lower the cover down to make sure the meaning is correct. There are three methods of memorization: matching the English words given in Korean, and matching English words in the presented English example. 
 
 + **Recall learning**
 
-This the part that matches the Korean meaning in the view after seeing the English word. You can lower the correct answer cover until you get the appropriate answer and then release your hand when you get the correct ansewer. 
+This the part that matches the Korean meaning in the view after seeing the English word. 
 
 + **Spell learning**
 
-It is the step of looking at the meaning of the word and spelling the word. If you get it wrong or ask for a hint, the card comes out again. You can also match you spelling and pronounciation while listening to word pronounciation.
+It is the step of looking at the meaning of the word and spelling the word.
 
 ### 👥 Group Learning 
 
@@ -84,6 +84,7 @@ Originally, when teachers taught students the spelling and pronunciation of word
 
 ## unique advantages of using this tool for English learning
 
+Word learning is conducted in the order of memorization, recall, and spelling, and repeated learning is performed in units of sections divided by 10 words. In this process, we can see the unique advantages of class cards. First, in memorization learning, listen to the pronunciation of the current card, lower the cover slightly to confirm the meaning, and then move on to the next card. If you get a card that knows the meaning and pronunciation, lower the cover to the end and mark it as a card that you know. This is because the cards you know can be excluded from the next iteration. If you repeat learning while marking yourself until you mark all the cards in the section, memorization learning is over. Second, in recall learning, you can lower the correct answer cover until you get the appropriate answer and then release your hand when you get the correct ansewer. Third, in spell learning, if you get it wrong or ask for a hint, the card comes out again. You can also match you spelling and pronounciation while listening to word pronounciation.
 
 
 ## How user-friendly is the tool for both teachers and students? 
