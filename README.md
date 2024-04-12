@@ -50,7 +50,7 @@ Quiz battles are called multiple-choice real-time competition. After checking th
 
 ### Its purpose in English learning or teaching 
 
-This tool makes students enjoy studying English words. Such as quiz battles, It can be participated together, hels students learn repeatedly funny rather than studying alone.
+This tool makes students enjoy studying English words. Such as quiz battles, It can be participated together, helps students learn repeatedly funny rather than studying alone.
 
 ## How to integrate with traditional English word tests using paper
 
