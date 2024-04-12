@@ -27,21 +27,16 @@ Traditional English words teaching methods involve taking a note test in paper b
 
 ### detailed scenarios
 
-*Scene 1*
+|||
+|------| --------------------------------|
+| Student 1 | After the break, it's a word test, but I don't know many words properly yet. |
+| Student 2 | Me too. I've spent a lot of time this week, and it's still hard. |
+| student 3 |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
+| *Scene 2* #|
+| Student 1 | Teacher, I don't remember the spelling and meaning of English words. |
+| Student 3 | Me too. I prepared really hard for the vocabulary test this week. |
+| Teacher | Everyone, seeing that I keep failing the English word test, I think I have a problem with my learning method. |
 
-Student 1 : After the break, it's a word test, but I don't know many words properly yet.
-
-Student 2 : Me too. I've spent a lot of time this week, and it's still hard.
-
-Student 3 : What should we do? In order to get a score on the test, we have to remember a lot of difficult words...
-
-*Scene 2*
-
-Student 1 : Teacher, I don't remember the spelling and meaning of English words.
-
-Student 3 : Me too. I prepared really hard for the vocabulary test this week.
-
-Teacher : Everyone, seeing that I keep failing the English word test, I think I have a problem with my learning method. 
 
           To solve this problem, I'll recommend an app called ‘class card’. 
           
