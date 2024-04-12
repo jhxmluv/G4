@@ -4,6 +4,8 @@
 We brainstormed and made decisions while each of us came up with ideas for digital tools that would be helpful for students.
 ### Selected digital tool : Classcard
 ❓ Simply put: Offering students a unique approach to English vocabulary compared to before
+![image](https://github.com/jhxmluv/G4/assets/162323509/a4e0dfb7-20b2-49dc-8197-c2e355585a77)
+
 
 *A draft script for the video*
 
