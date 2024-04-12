@@ -1,8 +1,11 @@
 # G4 - project 1
 
-Presentation Scriptwriter : Taehong
-Presenter : Jiham
-G4's writer : Daeun
+🙌🏻 The roles of members
+
++ Presentation Scriptwriter : Taehong
++ Presenter : Jiham
++ G4's writer : Daeun
++ Video maker : together
 
 📅 3/28 first meeting
 
