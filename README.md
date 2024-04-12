@@ -1,5 +1,5 @@
 # G4 - project 1
-📅 3/28 fist meeting
+📅 3/28 first meeting
 
 We brainstormed and made decisions while each of us came up with ideas for digital tools that would be helpful for students.
 ### selected digital tool : Classcard
