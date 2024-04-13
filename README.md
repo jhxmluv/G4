@@ -95,7 +95,9 @@ Originally, when teachers taught students the spelling and pronunciation of word
 Word learning is conducted in the order of memorization, recall, and spelling, and repeated learning is performed in units of sections divided by 10 words. In this process, we can see the unique advantages of class cards. 
 
 First, in memorization learning, listen to the pronunciation of the current card, lower the cover slightly to confirm the meaning, and then move on to the next card. If you get a card that knows the meaning and pronunciation, lower the cover to the end and mark it as a card that you know. This is because the cards you know can be excluded from the next iteration. If you repeat learning while marking yourself until you mark all the cards in the section, memorization learning is over. 
+
 Second, in recall learning, you can lower the correct answer cover until you get the appropriate answer and then release your hand when you get the correct ansewer.
+
 Third, in spell learning, if you get it wrong or ask for a hint, the card comes out again. You can also match you spelling and pronounciation while listening to word pronounciation.
 
 
