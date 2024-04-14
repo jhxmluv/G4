@@ -121,7 +121,7 @@ A teacher can prepare for group activities using a class card. After dividing th
 
 __________________________________________________________________________________________________________________________________________________________
 
-# Script for the video
+# 📝 Script for the video
 
 ### Opening
 
