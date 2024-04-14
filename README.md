@@ -123,7 +123,7 @@ ________________________________________________________________________________
 
 # Script for the video
 
-###Opening
+### Opening
 
 + Hello, everyone!
 + Didn't you think memorizing English words was not interesting or difficult?
