@@ -159,4 +159,9 @@ You can look at the meaning of the word and spell it.
 + This activity can help students engage better in class and foster healthy competition.
 + Additionally, after the battle, students can check the wrong answers while waiting for the ranking and scores will be shown.
 + Quiz battles are a great way to make English learning fun and help them learn more effectively than studying alone.
-
++ Then do Classcard can integrate with traditional English word tests using paper?
++ In traditional teaching methods, students usually memorize words by taking notes on paper.
++ They repeat writing or reading alone to memorize the words.
++ However, using Classcard to study English words allows students to collaborate and compete with each other while solving quizzes.
++ This makes the learning proce ss more engaging and fun.
++ Also, traditional memorization and recall learning methods can be integrated with digital devices, making it easier for students to learn and
