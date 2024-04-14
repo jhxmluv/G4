@@ -118,3 +118,38 @@ Students can take an online quiz. They can access the quiz battle site on device
 + Example
 
 A teacher can prepare for group activities using a class card. After dividing the group into several groups, students can do an online quiz battle on the class card app with the English words they learned in this class and do activities such as which group has higher quiz battle scores. Through this, students will be able to participate better in class.
+
+__________________________________________________________________________________________________________________________________________________________
+
+# Script for the video
+
+###Opening
+
++ Hello, everyone!
++ Didn't you think memorizing English words was not interesting or difficult?
++ We found an app that brings you closer to English words, "Classcard."
+
+### The main part
+
++ 'Classcard' is an online version of a flashcard often used to memorize words in English class.
++ We can divide the main features of this app into individual learning and group learning.
++ Let’s talk about Individual Learning.
+1. Individual learning's first step is memorization learning.
+After the English words are given, think of the meaning for a second, then lower the cover to check if the meaning is correct.
+2. The next step is recall learning.
+You will match the Korean meaning and English word.
+3. Last is Spell learning.
+You can look at the meaning of the word and spell it.
++ Let’s move on to group learning.
++ Classcard offers Quiz battles for group learning.
++ Students can participate in real-time multiple-choice competitions by entering the teacher's battle code.
++ They can earn points by solving quizzes, which may include listening to pronunciation, completing example sentences, and selecting meanings and English words.
++ The teacher's screen shows an air balloon that goes up as the scores are added.
++ Classcard offers many helpful methods, but can these learning steps interact with or engage students?
++ The answer is, yes.
++ For example, the teacher can prepare for group activities using a class card.
++ By dividing the students into several groups, students can participate in an online quiz battle with the English words they learned in class.
++ This activity can help students engage better in class and foster healthy competition.
++ Additionally, after the battle, students can check the wrong answers while waiting for the ranking and scores will be shown.
++ Quiz battles are a great way to make English learning fun and help them learn more effectively than studying alone.
+
