@@ -164,4 +164,24 @@ You can look at the meaning of the word and spell it.
 + They repeat writing or reading alone to memorize the words.
 + However, using Classcard to study English words allows students to collaborate and compete with each other while solving quizzes.
 + This makes the learning proce ss more engaging and fun.
-+ Also, traditional memorization and recall learning methods can be integrated with digital devices, making it easier for students to learn and
++ Also, traditional memorization and recall learning methods can be integrated with digital devices, making it easier for students to learn and remember English words.
++ For instance, teachers can use Classcard to teach spelling and pronunciation of words instead of relying on paper tests.
++ This way, students can experience innovative and effective ways of learning English words.
++ What other unique advantages of using this tool for English learning?
++ Traditional methods of memorizing English words are ineffective as they are forgotten within a short period of time.
++ Even if you've already memorized a word, you can't remember its meaning, which adds to the effort of memorizing the same word multiple times.
++ With Classcard, however, you can use three structured steps and quizzes to help you retain English words in your long-term memory.
++ Then does the app offer a user-friendly UI for both teachers and students?
++ Yes, of course!
++ Required vocabulary for each text book is already available in Classcard, and teachers or students can create new vocabulary sets as needed.
++ You can also use other people's sets of words for your classes.
++ Moreover, students can join their teacher's class in a simple way - just using an invitation code.
++ The testing process is also streamlined, where students can take the test after learning and have it automatically submitted to the teacher for grading.
++ This allows real-time tracking of students' word learning levels and test scores through the report tab.
++ Lastly, teachers can save and assign homework right away.
++ This way, students can continue their studies wherever they are, and teachers can keep track of their progress.
+
++ How to join 'Classcard'?
+1. You can download the app on your mobile , or tablet, or search for https://www.classcard.net on the web. With just one click, you can create a new account. All you need is to prepare your email.
+This app could be the key to unlocking the students' potential and helping them achieve better results.
+Every learner deserves the best. Make every lesson unforgettable with 'Classcard'- the ultimate learning companion.
