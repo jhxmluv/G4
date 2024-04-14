@@ -182,6 +182,13 @@ You can look at the meaning of the word and spell it.
 + This way, students can continue their studies wherever they are, and teachers can keep track of their progress.
 
 + How to join 'Classcard'?
-1. You can download the app on your mobile , or tablet, or search for https://www.classcard.net on the web. With just one click, you can create a new account. All you need is to prepare your email.
-This app could be the key to unlocking the students' potential and helping them achieve better results.
-Every learner deserves the best. Make every lesson unforgettable with 'Classcard'- the ultimate learning companion.
+  
+1. You can download the app on your mobile , or tablet, or search for https://www.classcard.net on the web.
+   
+2. With just one click, you can create a new account.
+  
+3. All you need is to prepare your email.
+
+### Closing
++ This app could be the key to unlocking the students' potential and helping them achieve better results.
++ Every learner deserves the best. Make every lesson unforgettable with 'Classcard'- the ultimate learning companion.
