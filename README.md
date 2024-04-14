@@ -134,12 +134,19 @@ ________________________________________________________________________________
 + 'Classcard' is an online version of a flashcard often used to memorize words in English class.
 + We can divide the main features of this app into individual learning and group learning.
 + Let’s talk about Individual Learning.
+  
 1. Individual learning's first step is memorization learning.
+
 After the English words are given, think of the meaning for a second, then lower the cover to check if the meaning is correct.
+
 2. The next step is recall learning.
+
 You will match the Korean meaning and English word.
+
 3. Last is Spell learning.
+   
 You can look at the meaning of the word and spell it.
+
 + Let’s move on to group learning.
 + Classcard offers Quiz battles for group learning.
 + Students can participate in real-time multiple-choice competitions by entering the teacher's battle code.
