@@ -53,6 +53,8 @@ This the part that matches the Korean meaning in the view after seeing the Engli
 
 It is the step of looking at the meaning of the word and spelling the word.
 
+![image](https://github.com/jhxmluv/G4/blob/b3d58fd6f38798c0fc018a4197faea607769ce75/45586405-A82E-46BE-9C4E-30B8853E8259.jpeg)
+
 ### 👥 Group Learning 
 
 + **Quizz battle**
