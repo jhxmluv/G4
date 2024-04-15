@@ -41,6 +41,8 @@ ________________________________________________________________________________
 
 It is the first stage of learning all the English words you will memorize. After the English words are given, think about the meaning first, and then lower the cover down to make sure the meaning is correct. There are three methods of memorization: matching the English words given in Korean, and matching English words in the presented English example. 
 
+![image](https://github.com/jhxmluv/G4/blob/0c11ad43d54ad4e2754358d20a697f9af33f0964/F47BA62D-FC45-4E33-98C4-C2B41A82E745.jpeg)
+
 + **Recall learning**
 
 This the part that matches the Korean meaning in the view after seeing the English word. 
