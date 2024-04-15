@@ -6,7 +6,7 @@
 + G4's writer : Daeun 
 + Video maker : All
 
-📅 3/28 first meeting
+🗓 3/28 first meeting
 
 We brainstormed and made decisions while each of us came up with ideas for digital tools that would be helpful for students.
 ### Selected digital tool : Classcard
@@ -17,7 +17,7 @@ We brainstormed and made decisions while each of us came up with ideas for digit
 + A student who lacks interest in memorizing English vocabulary
 + A teacher introducing "class card" to this student
 
-📅 4/9 second meeting 
+🗓 4/9 second meeting 
 
  We selected **essential questions** for the video introducing the 'classcard'.
  
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 ### brief overview 
 'Classcard' is an online version of flashcard that is often used to memorize words in English class.
 
-### Main features
+### 🔑 Main features
 
 ### 👤 Individual Learning 
 
@@ -113,11 +113,11 @@ Third, in spell learning, if you get it wrong or ask for a hint, the card comes 
 
 ## How user-friendly is the tool for both teachers and students? 
 
-1. Depending on the publisher of the English textbook, the teacher can add word chapters to the class and set the tests that are presented after the students learn the word chapters. Also, since it is possible to import materials produced by others, even if I do not make them, I can use them in the class.
++ Depending on the publisher of the English textbook, the teacher can add word chapters to the class and set the tests that are presented after the students learn the word chapters. Also, since it is possible to import materials produced by others, even if I do not make them, I can use them in the class.
 
-2. Students can join the class created by the teacher as soon as they enter the invitation code sent by the teacher. Students take the test after learning, and when they complete it, it is automatically submitted to the teacher, so the teacher can immediately check the student's word learning level and test score in real time on the report tab without directly calculating it. If you have taken the test several times, you can also check in detail the score by order and the amount of learning at the time the test was submitted.
++ Students can join the class created by the teacher as soon as they enter the invitation code sent by the teacher. Students take the test after learning, and when they complete it, it is automatically submitted to the teacher, so the teacher can immediately check the student's word learning level and test score in real time on the report tab without directly calculating it. If you have taken the test several times, you can also check in detail the score by order and the amount of learning at the time the test was submitted.
 
-3. The teacher can assign homework to the students. When entering the learning & test setting on the app, the teacher can immediately save it by clicking on the learning to be given as homework and entering the type or target score of the test question.
++ The teacher can assign homework to the students. When entering the learning & test setting on the app, the teacher can immediately save it by clicking on the learning to be given as homework and entering the type or target score of the test question.
    
 ## Interactive features that the tool offer to engage students
 
@@ -140,7 +140,6 @@ ________________________________________________________________________________
 + We found an app that brings you closer to English words, "Classcard."
 
 ### The main part
-
 + 'Classcard' is an online version of a flashcard often used to memorize words in English class.
 + We can divide the main features of this app into individual learning and group learning.
 + Let’s talk about Individual Learning.
@@ -205,4 +204,4 @@ ________________________________________________________________________________
 
 # 🎥 Video
 
-## https://youtu.be/Lr3cLBSUVjI?si=Qztz2m0vBv0Jr7If
+## https://youtu.be/K7EOjmC7qV8?si=GU7hzmUw1tK4PC2A
