@@ -2,9 +2,9 @@
 
 🙌🏻 The roles of members
 
-+ Presentater : Taehong
-+ Video maker : Jiham
++ Presentater : Jiham
 + G4's writer : Daeun 
++ Video maker : All
 
 📅 3/28 first meeting
 
