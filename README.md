@@ -47,6 +47,8 @@ It is the first stage of learning all the English words you will memorize. After
 
 This the part that matches the Korean meaning in the view after seeing the English word. 
 
+![image](https://github.com/jhxmluv/G4/blob/2f2631213021c3bd41012f131c4adaf6ff71db01/C7C2DFCC-75D0-4C05-BFD3-22EF0540F9AD.jpeg)
+
 + **Spell learning**
 
 It is the step of looking at the meaning of the word and spelling the word.
