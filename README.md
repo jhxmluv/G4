@@ -100,7 +100,7 @@ Originally, when teachers taught students the spelling and pronunciation of word
    
 ![image](https://github.com/jhxmluv/G4/blob/ac3a5dc7b5247d4b455d31cfcb664d86ae654335/E7117AA4-62D2-444F-95E7-84D168F85386.jpeg)
 
-## unique advantages of using this tool for English learning
+## Unique advantages of using this tool for English learning
 
 Word learning is conducted in the order of memorization, recall, and spelling, and repeated learning is performed in units of sections divided by 10 words. In this process, we can see the unique advantages of class cards. 
 
@@ -195,9 +195,7 @@ You can look at the meaning of the word and spell it.
   
 1. You can download the app on your mobile , or tablet, or search for https://www.classcard.net on the web.
    
-2. With just one click, you can create a new account.
-  
-3. All you need is to prepare your email.
+2. With just one click, you can create a new account. All you need is to prepare your email.
 
 ### Closing
 + This app could be the key to unlocking the students' potential and helping them achieve better results.
