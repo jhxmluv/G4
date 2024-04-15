@@ -89,7 +89,6 @@ Originally, when teachers taught students the spelling and pronunciation of word
 
 1. You can download the 'Classcard' app on your phone or tap, or Search for https://www.classcard.net through Google or Naver sites.
    
-![image](https://github.com/jhxmluv/G4/commit/505638feb66e67099e3d02a54c0519e0d2e5ca5d)
 
 2. By clicking on the free membership, you can create simple mail, ID, and password and log in right away.
    
