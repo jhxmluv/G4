@@ -100,7 +100,7 @@ Originally, when teachers taught students the spelling and pronunciation of word
    
 ![image](https://github.com/jhxmluv/G4/blob/ac3a5dc7b5247d4b455d31cfcb664d86ae654335/E7117AA4-62D2-444F-95E7-84D168F85386.jpeg)
 
-## unique advantages of using this tool for English learning
+## Unique advantages of using this tool for English learning
 
 Word learning is conducted in the order of memorization, recall, and spelling, and repeated learning is performed in units of sections divided by 10 words. In this process, we can see the unique advantages of class cards. 
 
@@ -113,11 +113,11 @@ Word learning is conducted in the order of memorization, recall, and spelling, a
 
 ## How user-friendly is the tool for both teachers and students? 
 
-1. Depending on the publisher of the English textbook, the teacher can add word chapters to the class and set the tests that are presented after the students learn the word chapters. Also, since it is possible to import materials produced by others, even if I do not make them, I can use them in the class.
++ Depending on the publisher of the English textbook, the teacher can add word chapters to the class and set the tests that are presented after the students learn the word chapters. Also, since it is possible to import materials produced by others, even if I do not make them, I can use them in the class.
 
-2. Students can join the class created by the teacher as soon as they enter the invitation code sent by the teacher. Students take the test after learning, and when they complete it, it is automatically submitted to the teacher, so the teacher can immediately check the student's word learning level and test score in real time on the report tab without directly calculating it. If you have taken the test several times, you can also check in detail the score by order and the amount of learning at the time the test was submitted.
++ Students can join the class created by the teacher as soon as they enter the invitation code sent by the teacher. Students take the test after learning, and when they complete it, it is automatically submitted to the teacher, so the teacher can immediately check the student's word learning level and test score in real time on the report tab without directly calculating it. If you have taken the test several times, you can also check in detail the score by order and the amount of learning at the time the test was submitted.
 
-3. The teacher can assign homework to the students. When entering the learning & test setting on the app, the teacher can immediately save it by clicking on the learning to be given as homework and entering the type or target score of the test question.
++ The teacher can assign homework to the students. When entering the learning & test setting on the app, the teacher can immediately save it by clicking on the learning to be given as homework and entering the type or target score of the test question.
    
 ## Interactive features that the tool offer to engage students
 
