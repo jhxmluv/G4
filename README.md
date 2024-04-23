@@ -211,3 +211,16 @@ ________________________________________________________________________________
 # 🎥 Video
 
 ## https://youtu.be/K7EOjmC7qV8?si=GU7hzmUw1tK4PC2A
+
+______________________________________________________________________________________________________________________
+
+# 🔍 FAQ about our project and 'Classcard'
+
+Q. Cannnot agree with the idea that 'Classcard is good for cultivating the interest in English'. Can you explain how it can be in more detail?
+
+A. If the site doesn't spark their interest in English, it may be a problem with the site, but I think it's also possible that other factors make them disengage with the site because they're not interested in the lesson itself. Therefore, it's important not to rely solely on Classcard, but to use it as a tool to create a lesson that students are satisfied with.
+
+Q. For students who need to memorize a large number of words at once, such as high school students, I think it would take longer to use the site to memorize words. How can high school students get the most out of the site?
+
+A. If you're having trouble using it during the school year or in class, I recommend using Classcard to memorize the words over the summer or winter holidays. 
+
