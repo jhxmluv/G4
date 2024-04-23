@@ -109,7 +109,7 @@ Originally, when teachers taught students the spelling and pronunciation of word
    
 ![image](https://github.com/jhxmluv/G4/blob/177af5db55458f611495612a1aa505af37e142f4/0B81C4B5-F170-416A-A2CE-9CD155C25B4D.jpeg)
 
-2. By clicking on the free membership, you can create simple mail, ID, and password and log in right away.
+2. With just one click, you can create a new account. All you need is to prepare your email.
    
 ![image](https://github.com/jhxmluv/G4/blob/ac3a5dc7b5247d4b455d31cfcb664d86ae654335/E7117AA4-62D2-444F-95E7-84D168F85386.jpeg)
 
