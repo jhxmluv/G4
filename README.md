@@ -67,6 +67,9 @@ You can either make your own card sets or use the provided card sets which are a
 
 ### 👥 Group Learning 
 
+![image](https://github.com/jhxmluv/G4/assets/162323509/cf5293fb-2486-49cd-894e-3945e36c7fa2)
+![image](https://github.com/jhxmluv/G4/assets/162323509/d6194aa1-e067-4c45-96d0-92e44fe6815b)
+
 + **Quizz battle**
 
 Quiz battles are called multiple-choice real-time competition. After checking the teacher's battle code, the student enters the battle code and nickname. Students earn points by solving problems on their personal devices. Various questions such as listening to pronunciation, completing example sentences, and selecting meaning & English words are presented. The hot air balloon on the teacher's screen goes up as the scores are added up for each of the five questions. When the battle is over, you can check the wrong question once more by pressing 'Check the wrong answer' while waiting for the final ranking. In addition, students can know the ranking of the words that have many wrong answers and check the ranking and scores of all students.
