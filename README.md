@@ -62,7 +62,6 @@ It is the step of looking at the meaning of the word and spelling the word.
 Link of the example : https://youtube.com/shorts/ps7_4cWMjuA?si=LWr7jj2XsvL4tgFd
 
 ![image](https://github.com/jhxmluv/G4/assets/162323509/1d6a9179-e845-44eb-b111-5e561f79ab1b)
-
 You can either make your own card sets or use the provided card sets which are already made. Classcard provides most of the wordlists in the textbooks, so feel free to use it!
 
 
